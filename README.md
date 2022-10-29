@@ -2,7 +2,7 @@
 Android game developed in Game Maker Studio
 
 
-En el repositorio se encuentran las versiones con las carpetas del proyecto.
+En el repositorio se encuentran las carpetas del proyecto.
 
 
 
