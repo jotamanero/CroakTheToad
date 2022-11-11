@@ -1,8 +1,11 @@
 # CroakTheToad
 Android game developed in Game Maker Studio
 
+Las siguientes versiones del archivo APK se suben comprimidas
+CroackTheToadAPK.zip
 
-En el repositorio se encuentran las carpetas del proyecto.
+Para ver el proyecto en GameMaker descargar el archivo:
+CroackTheToad.zip
 
 
 
