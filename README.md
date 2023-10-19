@@ -1,5 +1,8 @@
 # CroakTheToad
-Android game developed in Game Maker Studio
+TFG - Investigación y Desarrollo de un Videojuego para Android y su Posicionamiento
+Para acceder a la tesis descargar Investigación y Desarrollo de un Videojuego para Android y su Posicionamiento.pdf
+
+Juego desarrollado en Game Maker Studio
 https://play.google.com/store/apps/details?id=com.vicestatemedia.croakthtoad&gl=ES
 VERSIÓN FINAL SUBIDA A LA PLAY STORE --> 1.0.4
 
